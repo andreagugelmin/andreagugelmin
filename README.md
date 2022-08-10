@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreagugelmin
 - 👀 I’m interested in ... Pensamento Computacional
-- 🌱 I’m currently learning sobre o GitHub
+- 🌱 I’m currently learning sobre o GitHub, HTML
 - 💞️ I’m looking to collaborate on ...atividades para sala de aula
 - 📫 How to reach me a andrea.gugelmin@escola.pr.gov.br
 
