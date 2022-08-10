@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @andreagugelmin
-- 👀 I’m interested in ... **Pensamento Computacional**
-- 🌱 I’m currently learning sobre o GitHub, HTML
-- 💞️ I’m looking to collaborate on ...atividades para sala de aula
-- 📫 How to reach me a andrea.gugelmin@escola.pr.gov.br
+- 👋 Olá! Sou @andreagugelmin
+- 👀 Estou interessada em estratégias para o Ensino de **Pensamento Computacional**
+- 🌱 Atualmente estou desenvolvendo conhecimentos na linguagem de programação
+- 💞️ Estou interessada em atividades para sala de aula
+- 📫 Meu contato: andrea.gugelmin@escola.pr.gov.br
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
