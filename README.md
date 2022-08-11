@@ -1,6 +1,6 @@
 - 👋 Olá! Sou @andreagugelmin
 - 👀 Estou interessada em estratégias para o Ensino de **Pensamento Computacional**
-- 🌱 Atualmente estou desenvolvendo conhecimentos na linguagem de programação
+- 🌱 Desenvolvendo conhecimentos na linguagem de programação
 - 💞️ Estou interessada em atividades para sala de aula
 - 📫 Meu contato: andrea.gugelmin@escola.pr.gov.br
 
