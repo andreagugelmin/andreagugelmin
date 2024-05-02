@@ -1,7 +1,7 @@
 - 👋 Olá! Sou @andreagugelmin
-- 👀 Estou interessada em estratégias para o Ensino de **Pensamento Computacional**
-- 🌱 Desenvolvendo conhecimentos na linguagem de programação
-- 💞️ Estou interessada em atividades para sala de aula
+- 🎮 Professora de Robótica Educacional e Pensamento Computacional - SEED Paraná.
+- 💻 Estuda Licenciatura em Computação pela UTFPR.
+- 🗿 Licenciatura e Bacharelado em História.
 - 📫 Meu contato: andrea.gugelmin@escola.pr.gov.br
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
