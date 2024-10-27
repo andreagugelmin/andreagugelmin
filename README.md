@@ -1,6 +1,7 @@
 - 👋 Olá! Sou @andreagugelmin
 - 🎮 Professora de Robótica Educacional e Pensamento Computacional - SEED Paraná.
 - 💻 Estuda Licenciatura em Computação pela UTFPR.
+- 🧰 Estuda Técnico em Eletrônica - Anhanguera
 - 🗿 Licenciatura e Bacharelado em História.
 - 📫 Meu contato: andrea.gugelmin@escola.pr.gov.br
 
